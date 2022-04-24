@@ -163,7 +163,7 @@ transform: scale(.8);
 /* END HEADER SECTION  */
 /* First SECTION  */
 #First{
- background-image: url(./img/firstbg.jpg);
+ background-image: url(/img/firstbg.jpg);
  background-size: cover;
  background-position: top center;
  position: relative;
